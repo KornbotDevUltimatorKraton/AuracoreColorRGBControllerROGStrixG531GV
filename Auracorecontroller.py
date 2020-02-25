@@ -1,3 +1,6 @@
+#Author:Chanapai Chuadchum
+#Project:Auracore color controller GUI 
+#release date:25/2/2020
 from PyQt5 import QtCore, QtWidgets, uic,Qt,QtGui 
 from PyQt5.QtWidgets import QApplication,QTreeView,QDirModel,QFileSystemModel,QVBoxLayout, QTreeWidget,QStyledItemDelegate, QTreeWidgetItem,QLabel,QGridLayout,QLineEdit,QDial
 from PyQt5.QtWidgets import *

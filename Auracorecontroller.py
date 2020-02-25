@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 #Author:Chanapai Chuadchum
 #Project:Auracore color controller GUI 
 #release date:25/2/2020
